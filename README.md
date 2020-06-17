@@ -1,3 +1,3 @@
 # GitTutorial
 ## Hello,Git!
-## Kazuki  Nishioka
+## JunJun
